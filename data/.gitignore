@@ -1,0 +1,6 @@
+raw/ml-100k.zip
+raw/ml-100k
+interim/merged.csv
+interim/movies_info.csv
+interim/ratings.csv
+interim/users.csv
