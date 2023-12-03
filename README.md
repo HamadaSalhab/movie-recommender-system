@@ -51,7 +51,7 @@ conda activate myconda
 4- Install the required Python dependencies:
 
 ``` zsh
-conda install --file requirements.txt
+conda install -c conda-forge --file requirements.txt
 ```
 
 ### Get Data
